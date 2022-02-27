@@ -13,7 +13,7 @@ function Header() {
         </Link>
         <div className="hidden items-center space-x-5 md:inline-flex">
           <h3>About</h3>
-          <h3>contact</h3>
+          <h3>Contact</h3>
           <h3 className="rounded-full bg-green-600 px-4 py-1 text-white">
             Follow
           </h3>
